@@ -1,0 +1,23 @@
+{
+  "schema": 1,
+  "name": "Pepper&Carrot",
+  "sources": [
+    {
+      "id": "pepper-and-carrot",
+      "name": "Pepper&Carrot",
+      "version": 1,
+      "path": "sources/pepper-and-carrot.json",
+      "sha256": "7aec475bfc9ccd9ee1b7fa5ff20476d64140774c0055c744bd0eaac89bb10f8c",
+      "lang": [
+        "en",
+        "fr",
+        "de",
+        "es",
+        "it",
+        "pt",
+        "ja"
+      ],
+      "nsfw": false
+    }
+  ]
+}
